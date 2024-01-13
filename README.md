@@ -1,4 +1,27 @@
 
-![Screenshot_1705157877](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/3dfcd933-f0a7-48e5-92ee-8c7dc5ba4c0a)
-![Screenshot_1705157847](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/43d84d78-7f32-4b81-bb00-26e2f3fc75c5)
-![Screenshot_1705157924](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/b6023ca6-169e-45fd-9f5d-9672c2eb3838)
+
+![Untitled-1](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/df274945-7a6d-4ed0-949d-01076a352a09)
+
+
+## Get Started
+
+install dev dependencies
+
+### `npm install` or `yarn install`
+
+## Then
+
+Run The app
+
+### `npm start` or `yarn start`
+
+Runs your app in development mode.
+
+Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+
+#### `npm run ios` or `yarn run ios`
+
+Like `npm start` / `yarn start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
+
+#### `npm run android` or `yarn run android`
+
