@@ -1,5 +1,4 @@
-![Screenshot 2024-01-04 130338](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/767dbadf-4ab0-4b3e-b6c6-9b2e61eb9bad)
 
-![Screenshot 2024-01-04 130354](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/f4d65329-83ab-435d-bd6e-d1b570376c05)
-
-![Screenshot 2024-01-04 130423](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/a05d12dc-b849-43f4-8bb4-1212fba2f20f)
+![Screenshot_1705157877](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/3dfcd933-f0a7-48e5-92ee-8c7dc5ba4c0a)
+![Screenshot_1705157847](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/43d84d78-7f32-4b81-bb00-26e2f3fc75c5)
+![Screenshot_1705157924](https://github.com/AmilaThushara/twitter-Ui/assets/80099554/b6023ca6-169e-45fd-9f5d-9672c2eb3838)
